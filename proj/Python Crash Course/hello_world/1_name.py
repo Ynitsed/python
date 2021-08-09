@@ -13,4 +13,10 @@ print(name.lower())
 
 first_name = "gabriel"
 last_name = "lu"
-full_name = first_name + last_name
+full_name = first_name + " " + last_name
+print(full_name)
+
+print("\nHello, " + full_name.title() + "!\n")
+
+message = "\nHello, " + full_name.title() + "!\n"
+print(message)
