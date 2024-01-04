@@ -1,0 +1,8 @@
+Executing script: /home/gabriel/GitHub/python/terminalQuest/dictionaries.py
+Script arguments: 
+Output:
+  File "/home/gabriel/GitHub/python/terminalQuest/dictionaries.py", line 2
+    'name' = 'Miles Morales',
+    ^^^^^^
+SyntaxError: cannot assign to literal here. Maybe you meant '==' instead of '='?
+

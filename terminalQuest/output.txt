@@ -1,0 +1,8 @@
+Executing script: /home/gabriel/GitHub/python/terminalQuest/list_iteration.py
+Script arguments: Duke,Ruby,Dottie,Snake,Joe
+Output:
+0.Duke
+1.Ruby
+2.Dottie
+3.Snake
+
